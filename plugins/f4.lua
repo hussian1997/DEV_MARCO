@@ -7,25 +7,24 @@ send_large_msg(receiver, " -_- ")
 end   --@h_k_a
 for k,v in pairs(result) do 
   if not v.first_name and not v.last_name then 
- kick_user(v.peer_id,msg.to.id)   --@h_k_a
+ kick_user(v.peer_id,msg.to.id)   
  deleted = deleted + 1 
  end 
  end 
  send_large_msg(receiver,"تم طرد الحسابات المحذوفه  ب نجاح -_- ") 
  end 
-local function h_k_a_a(msg, matches)    --@h_k_a
+local function h_k_a_a(msg, matches)    
 if is_owner(msg) then 
  local receiver = get_receiver(msg) 
 channel_get_users(receiver, h_k_a,{receiver = receiver, msg = msg}) 
  end 
- end    --@h_k_a
+ end    
  return { 
    patterns = { 
    "^(طرد الحسابات المحذوفه)$" 
  }, 
-run = h_k_a_a, 
+run = 
 } 
--- تم التعديل بواسطه @h_k_a
 
 -- 
 
