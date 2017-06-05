@@ -1,10 +1,8 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀     BY MOHAMMED HISHAM               ▀▄ ▄▀ 
-▀▄ ▄▀     BY MOHAMMEDHISHAM (@TH3BOSS)    ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY MOHAMMED HISHAM       ▀▄ ▄▀   
-▀▄ ▄▀     block word  : منع كلمات          ▀▄ ▄▀ 
+       ▀▄ ▄▀   
+▀▄ ▄▀     ملف  : منع كلمات          ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
 local function addword(msg, name)
