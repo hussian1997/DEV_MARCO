@@ -1,9 +1,6 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY faeder                         ▀▄ ▄▀ 
-▀▄ ▄▀     BY faeder (@xXxDev_iqxXx)        ▀▄ ▄▀ 
-▀▄ ▄▀ Making the file by faeder            ▀▄ ▄▀   
 ▀▄ ▄▀          reply  :  تكرار الكلام       ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
 --]]
@@ -20,4 +17,3 @@ end
 },
   run = faeder,
 }
--- BY Dev #faeder @xXxDev_iqxXx
