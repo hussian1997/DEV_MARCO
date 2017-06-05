@@ -9,7 +9,6 @@ end
 
 return { 
   patterns = { 
-     "^(@x_I_10_I_x)$" 
   }, 
   run = run, 
 } 
@@ -17,7 +16,3 @@ return {
 end
 
 
---By @x_I_10_I_x
---By @llN00Nll
---By @liknil
---ch> @Dev_TLN
