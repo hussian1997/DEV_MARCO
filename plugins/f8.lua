@@ -32,5 +32,3 @@ return {
 } 
 
 end 
---By @llX8Xll
----ch @DEV_KEEPER_NEW
